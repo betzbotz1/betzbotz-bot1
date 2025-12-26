@@ -1,0 +1,19 @@
+# BetzBotz Dependencies
+
+# Web framework
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Polymarket / Web3
+web3==6.14.0
+eth-account==0.10.0
+py-clob-client==0.1.0
+requests==2.31.0
+
+# AI (optional)
+openai==1.12.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+aiohttp==3.9.3
